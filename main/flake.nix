@@ -11,7 +11,6 @@
   inputs.src-madam-main.ref   = "refs/heads/main";
   inputs.src-madam-main.owner = "openpeep";
   inputs.src-madam-main.repo  = "madam";
-  inputs.src-madam-main.dir   = "";
   inputs.src-madam-main.type  = "github";
   
   inputs."klymene".owner = "nim-nix-pkgs";
